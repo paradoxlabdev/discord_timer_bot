@@ -86,6 +86,6 @@ On startup, config validation runs and slash commands attempt global registratio
 3) Verify warning and end sounds play in voice; check timer updates and cleanup buttons.
 
 ### Author
-- adamsosx🍒
+- paradoxlab.dev
 
 
